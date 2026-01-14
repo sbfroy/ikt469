@@ -4,3 +4,5 @@ __pycache__/
 .data/
 results/
 assignment_2_imgs/
+.venv
+cornell_movie_dialogs/
