@@ -7,3 +7,6 @@ assignment_2_imgs/
 .venv
 cornell_movie_dialogs/
 assignment_3/data/
+*.pth
+*.png
+assignment_4/data/
